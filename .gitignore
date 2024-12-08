@@ -1,0 +1,75 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and Database
+*.log
+*.ldf
+*.mdf
+*.sdf
+*.sqlite
+*.sqlite3
+
+# Configuration files
+appsettings.Development.json
+appsettings.Production.json
+appsettings.json
+secrets.json
+
+# Entity Framework Migrations
+Migrations/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*.orig
+
+# IDE-specific settings
+.vscode/
+.vs/
+
+# Rider settings
+.idea/
+*.sln.iml
+
+# Resharper settings
+_ReSharper.Caches/
+
+# NuGet Packages
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+
+# Publish output
+publish/
+wwwroot/
+
+# Coverage and analysis tools
+coverage/
+*.coverage
+*.coveragexml
+*.cov
+TestResults/
+*.codecoverage
+*.trx
+
+# HTTP test files (optional)
+*.http
+
+# Miscellaneous
+*.pidb
+*.iobj
+*.ipdb
+*.tlog
+*.tmp_proj
+*.tmp_proj.user
