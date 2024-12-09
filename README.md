@@ -6,7 +6,7 @@
 - **Pre-built Account Management Components**: Include user-friendly components for account updates and settings.
 - **Token Management**: Securely handle access and refresh tokens, all abstracted for you.
 
-# Full documentation will be out soon. Below you can see some examples.
+# Full documentation, client side and node packages will be out very soon. Below you can find some code examples.
 
 
 Add Zauth to your project using `npm` or `yarn`:
